@@ -1,5 +1,8 @@
 # firebase_ui
 
+Another fork... the old package was incomplete and did not support the latest flutter
+
+
 [![Build Status](https://travis-ci.org/fidelisa/flutter_plugins.svg?branch=master)](https://travis-ci.org/fidelisa/flutter_plugins)
 [![pub package](https://img.shields.io/pub/v/firebase_ui.svg)](https://pub.dartlang.org/packages/firebase_ui)
 
