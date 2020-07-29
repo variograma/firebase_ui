@@ -24,11 +24,7 @@ class MyApp extends StatelessWidget {
         FFULocalizations.delegate,
       ],
       supportedLocales: [
-        const Locale('fr', 'FR'),
         const Locale('en', 'US'),
-        const Locale('de', 'DE'),
-        const Locale('pt', 'BR'),
-        const Locale('es', 'MX'),
       ],
       home: new MyHomePage(title: 'Flutter Demo Home Page'),
     );
